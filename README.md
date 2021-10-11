@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sirargill
 - 👀 I’m interested in ...learning more about computer and coding
-- 🌱 I’m currently learning ...web development 
+- 🌱 I’m currently learning ...web development && Java
 - 💞️ I’m looking to collaborate on ...website building
 - 📫 How to reach me ...
 
